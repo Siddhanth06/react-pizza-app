@@ -1,3 +1,8 @@
+# Screenshot
+
+![Screenshot (10)](https://github.com/Siddhanth06/react-pizza-app/assets/89792184/01518530-0a2b-4fe1-a1c4-0ac7edea252b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
